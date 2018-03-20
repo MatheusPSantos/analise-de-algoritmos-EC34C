@@ -1,0 +1,10 @@
+./vscode
+
+*.exe
+*.o
+
+*.pdf
+*.odt
+*.doc
+*.docx
+
