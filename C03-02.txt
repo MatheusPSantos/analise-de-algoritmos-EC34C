@@ -1,0 +1,25 @@
+﻿Matheus Pereira dos Santos
+1748823
+a) 
+Abordagem 1: Atividades 0, 1 e 6 podem ser realizadas
+Abordagem 2: Atividades 0, 1 e 6
+Abordagem 3: Atividades 0, 1 e 6
+
+Todas as abordagens gulosas selecionam o mesmo grupo 
+de atividades
+---------------------------------------------
+b) 
+Abordagem 1: Atividades 0, 2 e 5 podem ser realizadas
+Abordagem 2: Atividades 0, 2 e 6
+Abordagem 3: Atividades 0, 2 e 5
+
+Todas as abordagens gulosas selecionam o mesmo numero de grupo 
+de atividades
+---------------------------------------------
+c) 
+Abordagem 1: Atividades 0, 3, 4 e 6 podem ser realizadas
+Abordagem 2: Atividades 2, 4 e 6
+Abordagem 3: Atividades 0, 4 e 6
+
+A Abordagem 1 seleciona o maior numero de atividades
+	
